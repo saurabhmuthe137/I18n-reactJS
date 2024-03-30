@@ -1,0 +1,22 @@
+{
+    "en": {
+        "welcomeMessage": "Hi, Myself SM Saurabh Muthe !",
+        "normalMessage": "I am currently a Bachelor student at R.B.N.B. COLLEGE SHRIRAMPUR",
+        "endMessage":"Thank You.",
+        "usersStatmessage":"Currently I am 21 year old."
+    },
+
+    "mr": {
+        "welcomeMessage": "नमस्कार,मी स्वतः SM सौरभ मुठे !",
+        "normalMessage": "मी सध्या R.B.N.B मध्ये बॅचलर विद्यार्थी आहे. महाविद्यालय श्रीरामपूर.",
+        "endMessage":"धन्यवाद.",
+        "usersStatmessage":"सध्या मी 21 वर्षांचा आहे."
+    },
+
+    "hi": {
+        "welcomeMessage":"नमस्ते, मैं स्वयं SM सौरभ मुठे!",
+        "normalMessage":"मैं वर्तमान में आर.बी.एन.बी. में स्नातक छात्र हूं। कॉलेज श्रीरामपुर।",
+        "endMessage":"धन्यवाद।",
+        "usersStatmessage":"फिलहाल मैं 21 साल का हूं।"
+    }
+}

@@ -1,0 +1,12 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: #e3ee51;
+}
+select{
+  margin-top: 50px;
+  font-size: 18px;
+  padding: 5px 10px;
+  border-radius: 10px;
+  background-color: rgb(157, 150, 151);
+  color: #000000;
+}
